@@ -1,5 +1,5 @@
 {
-  "name": "ember-notify",
+  "name": "@mediathand/ember-notify",
   "version": "5.2.1",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
